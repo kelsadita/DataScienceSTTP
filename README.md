@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kelsadita/datasciencesttp)
+
 # Instructions to run notebook
 
 - Install **Anaconda** (https://www.continuum.io/downloads)
@@ -10,4 +12,3 @@
 
   - `jupyter notebook`
 
-  ​# DataScienceSTTP
