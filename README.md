@@ -1,5 +1,3 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kelsadita/datasciencesttp)
-
 # Instructions to run notebook
 
 - Install **Anaconda** (https://www.continuum.io/downloads)
@@ -12,5 +10,10 @@
 
   - `jupyter notebook`
 
+---
 
-online: https://tmp58.tmpnb.org/user/6sGRhJ7mkcDI
+## Contact details:
+
+**Kalpesh Adhatrao**
+Mobile No: 8097047522
+Email: kalpesh.adhatrao@gmail.com
